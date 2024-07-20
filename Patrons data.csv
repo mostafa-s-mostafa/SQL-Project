@@ -1,0 +1,5 @@
+LoanID, BookID, LoanDate, DueDate, ReturnedDate, Title, FirstName, LastName, Email, PatronID 
+"1996", "10", "99", "2020-06-29", "2020-07-13", "None", "The Count of Monte Cristo", "Kala", "Simonian", "ksimonian2q@landonhotel.com", "99" 
+"1997", "155", "47", "2020-06-29", "2020-07-13", "None", "The Prophet", "Lydie", "Awmack", "lawmack1a@samoca.org", "47" 
+"1998", "169", "18", "2020-06-29", "2020-07-13", "None", "Second Treatise of Government", "Anthe", "Dinjes", "adinjesh@samoca.org", "18" 
+"1999", "73", "59", "2020-06-29", "2020-07-13", "None", "Dracula", "Cornelia", "Koppe", "ckoppe1m@landonhotel.com", "59" 
